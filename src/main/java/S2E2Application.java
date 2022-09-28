@@ -1,5 +1,3 @@
-package com.S2E2.S2E2;
-
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 

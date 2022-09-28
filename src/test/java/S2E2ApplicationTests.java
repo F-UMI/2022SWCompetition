@@ -1,5 +1,3 @@
-package com.S2E2.S2E2;
-
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
